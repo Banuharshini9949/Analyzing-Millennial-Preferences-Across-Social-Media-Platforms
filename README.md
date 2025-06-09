@@ -1,4 +1,3 @@
-# Analyzing-Millennial-Preferences-Across-Social-Media-Platforms
 
 # Analyzing Millennial Preferences Across Social Media Platforms
 
